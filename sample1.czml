@@ -1,4 +1,4 @@
 [{"id" : "document", "name" : "CZML Point", "version" : "1.0"},
-{"id" : "point_1567721", "name": "R-1567721", "position" : {"cartographicDegrees": [-34.80975583999958, -58.24522717399964, 0] }, "point": {"color": {"rgba": [255, 255, 255, 255]},"outlineWidth" : 4, "pixelSize": 20 }},
+{"id" : "point_1567721", "name": "R-1567721", "position" : {"cartographicDegrees": [-58.24522717399964,-34.80975583999958,0] }, "point": {"color": {"rgba": [255, 255, 255, 255]},"outlineWidth" : 4, "pixelSize": 20 }},
 {"id" : "point_1567722", "name": "R-1567722", "position" : {"cartographicDegrees": [-38.719570190999605, -62.26790948499962, 0] }, "point": {"color": {"rgba": [255, 255, 255, 255]},"outlineWidth" : 4, "pixelSize": 20 }}
 ]
