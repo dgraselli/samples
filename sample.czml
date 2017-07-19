@@ -1,3 +1,8 @@
+ [{
+    "id" : "document",
+    "name" : "CZML Point",
+    "version" : "1.0"
+},
 {"id" : "point_"1567721, "name": "R-1567721", "position" : { "cartographicDegrees" : [-34.80975583999958, -58.24522717399964, 0]    }
 {"id" : "point_"1567722, "name": "R-1567722", "position" : { "cartographicDegrees" : [-38.719570190999605, -62.26790948499962, 0]    }
 {"id" : "point_"1567723, "name": "R-1567723", "position" : { "cartographicDegrees" : [-38.7764202719996, -62.24623961099962, 0]    }
@@ -98,3 +103,4 @@
 {"id" : "point_"1567816, "name": "R-1567816", "position" : { "cartographicDegrees" : [-34.80955903999961, -58.28538973699966, 0]    }
 {"id" : "point_"1567816, "name": "R-1567816", "position" : { "cartographicDegrees" : [-34.80955903999961, -58.28538973699966, 0]    }
 {"id" : "point_"1567816, "name": "R-1567816", "position" : { "cartographicDegrees" : [-34.80955903999961, -58.28538973699966, 0]    }
+]
