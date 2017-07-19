@@ -18,4 +18,20 @@
         "outlineWidth" : 4,
         "pixelSize": 20
     }
+}, {
+    "id" : "point 2",
+    "name": "point",
+    "position" : {
+        "cartographicDegrees" : [-121.0, 40.0, 0]
+    },
+    "point": {
+        "color": {
+            "rgba": [255, 255, 255, 255]
+        },
+        "outlineColor": {
+            "rgba": [255, 0, 0, 255]
+        },
+        "outlineWidth" : 2,
+        "pixelSize": 10
+    }
 }]
