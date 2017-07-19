@@ -1,8 +1,4 @@
-[{
-    "id" : "document",
-    "name" : "CZML Point",
-    "version" : "1.0"
-}, {
+[ {
     "id" : "point 1",
     "name": "point",
     "position" : {
