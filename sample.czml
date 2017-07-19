@@ -20,7 +20,7 @@
     }
 }, {
     "id" : "point 2",
-    "name": "point",
+    "name": "point22",
     "position" : {
         "cartographicDegrees" : [-121.0, 40.0, 0]
     },
